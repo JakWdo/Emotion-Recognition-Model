@@ -36,17 +36,6 @@ seaborn>=0.11.1
 scikit-learn>=0.24.1
 ```
 
-## Project Structure
-
-```
-emotion_recognition/
-├── src/
-│   ├── data/          # Data loading and preprocessing
-│   ├── models/        # Model architecture components
-│   ├── training/      # Training utilities
-│   └── visualization/ # Visualization tools
-└── train.py          # Main training script
-```
 ## Results
 
 The model achieves significant performance on the RAF-DB dataset:
