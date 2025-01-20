@@ -47,32 +47,6 @@ emotion_recognition/
 │   └── visualization/ # Visualization tools
 └── train.py          # Main training script
 ```
-
-## Usage
-
-1. Install requirements:
-```bash
-pip install -r requirements.txt
-```
-
-2. Prepare your data:
-```
-data/
-├── train/
-│   ├── angry/
-│   ├── happy/
-│   └── ...
-└── test/
-    ├── angry/
-    ├── happy/
-    └── ...
-```
-
-3. Train the model:
-```bash
-python train.py
-```
-
 ## Results
 
 The model achieves significant performance on the RAF-DB dataset:
