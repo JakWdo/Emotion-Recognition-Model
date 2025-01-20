@@ -98,15 +98,6 @@ The confusion matrix shows strong performance across all emotion categories:
 
 Feel free to open issues or submit pull requests if you have suggestions for improvements or find any bugs.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Contact
-
-Feel free to reach out if you have any questions or are interested in collaborating!
-
-Email: kubakbk@op.pl
 
 ## References
 
